@@ -8,12 +8,13 @@ This repository provides Python-based analysis pipelines to study Flavobacterium
 These tools support mechanistic investigations into how a molecular conveyor belt-associated protein controls the rotational direction of the bacterial Type 9 Secretion System (T9SS).
  
 Contents
-•	1827_Speed_Average.ipynb
+•	Fj_Motility_Analysis.ipynb
 Processes single-cell trajectory data, calculates gliding speed, and fits distributions (e.g., normal) to quantify population motility.
 •	SprB_Speed_Tracking_Code.ipynb
 Analyzes the movement of SprB-labeled adhesins.
-•	Tethering_code.ipynb
+•	Fj_Tethered_Cell_Analysis.ipynb
 Tracks the rotational behavior of tethered F. johnsoniae cells and quantifies rotation rates over time.
+![image](https://github.com/user-attachments/assets/11842fda-1e88-4e5f-84d9-ce49ad16c072)
 
 
 
